@@ -1,0 +1,6 @@
+{
+  "name": "Beyond The Bar",
+  "description": "An elite legal technology platform bridging historic legal rigor and modern AI-driven efficiency, featuring interactive legal search assistants, precision drafting services, and a comprehensive curricular resource hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
